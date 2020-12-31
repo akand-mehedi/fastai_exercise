@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://akand-mehedi.github.io/fastai_exercise/sitemap.xml
